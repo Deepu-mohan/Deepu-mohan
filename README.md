@@ -42,3 +42,33 @@
 </div>
 
 ###
+
+#### 
+![I am GitHub Readme Generator's creator](https://avatars.githubusercontent.com/u/29911698?v=4)
+
+Am working as a Technical Lead , I have been designing and developing the in-house framework for the company's product for the past six months, using ASP.net, MVC, .net Core, Angular.js, and Python. I am responsible for analyzing end users' needs, finding applications to serve them, and participating in all managers' meetings. I also guide the team through technical issues and challenges, check that software and applications are updated, and conduct security audits. 
+
+I have over 9 years of experience in leading technical teams across different domains, such as real-estate, ERP, and E-commerce. I have expertise in designing and developing RESTful services, and I am a Microsoft Certified Technology Specialist (MCTS). I have skills in Azure Functions, XML, and C#. I adopt a language and platform agnostic approach for problem-solving, with a focus on keeping it simple and following design patterns. I work in Agile (Scrum, Kanban) methodology, with test-driven development (TDD) and pair programming. I am a self-learner, a critical thinker, and a flexible and dedicated team player. My goal is to deliver high-quality solutions that meet the needs and expectations of the end users and the company.
+
+Skills: .net Core/Python/ REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on Product Registration and warrenty processing Project for a manufacturing company  
+- 🌱 I’m currently learning Datascience 
+- 💬 Ask me about Project Management,   Team Management, Software Development(mobile app/web app) 
+- 📫 How to reach me: deepumohan.work@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Deepu-mohan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/@deepumohan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/deepumohan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/deepumohan3)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Deepu-mohan)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepu-mohan)](https://github.com/anuraghazra/github-readme-stats)
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Deepu-mohan/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/Deepu-mohan)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Deepu-mohan)  
+
