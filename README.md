@@ -65,9 +65,8 @@ Skills: .net Core/Python/ REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepu-mohan)](https://github.com/anuraghazra/github-readme-stats)
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Deepu-mohan/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Deepu-mohan)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Deepu-mohan)  
+
+
 
